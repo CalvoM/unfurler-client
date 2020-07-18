@@ -1,0 +1,23 @@
+{
+  "name": "meta-unfurler",
+  "version": "0.0.1",
+  "description": "A simple app to get metadata from a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalvoM/unfurler-client.git"
+  },
+  "keywords": [
+    "Unfurler",
+    "Client"
+  ],
+  "author": "d1r3ct0r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalvoM/unfurler-client/issues"
+  },
+  "homepage": "https://github.com/CalvoM/unfurler-client#readme"
+}
